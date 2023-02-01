@@ -54,12 +54,38 @@ document.write(finalresult); */
 
 // people.splice(2,1, "Elizabeth", "Anna");
 
-console.log(people);
+// console.log(people);
 
 // console.log(peoplecopy);
 
 
 // Exercise 3
 
+/*let multiArray = [ 
+    [1, 2, 1, 24], 
+    [8, 11, 9, 4], 
+    [7, 0, 7, 27], 
+    [7, 4, 28, 14], 
+    [3, 10, 25, 7], 
+    [21, 4, 6, 17], 
+    [3, 5, 26, 3] 
+];
 
+// get the numbers 11, 25, 17, 27, 0 and log them in the console.
 
+console.log(multiArray[1][1]);
+console.log(multiArray[4][2]);
+console.log(multiArray[5][3]);
+console.log(multiArray[2][3]);
+console.log(multiArray[2][1]);
+
+*/
+
+// Challenge
+
+/*
+let complicatedSentence = "Properties,$a$set$of$immutable$values,$are$passed$to$a$component's$renderer$as$properties$in$its $HTML$tag.$A$component$cannot$directly$modify$any$properties$passed$to$it,$but$can$be$passed$ callback$functions$that$do$modify$values.$This$mechanism's$promise$is$expressed$as$properties $flow$down;$actions$flow$up";
+
+let simpleArray = complicatedSentence.split('$');
+
+console.log(simpleArray.join(' '));*/
