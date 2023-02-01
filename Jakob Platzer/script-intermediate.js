@@ -1,12 +1,12 @@
 // intermediate exercise 1
 
 
-let carbrands = ["Tesla", "Audi", "Renault", "Volvo", "Mazda", "Fiat", "Ferrari"];
+/*let carbrands = ["Tesla", "Audi", "Renault", "Volvo", "Mazda", "Fiat", "Ferrari"];
 
 // carbrands.sort();
 
 console.log(carbrands);
-document.write(carbrands);
+document.write(carbrands);*/
 
 // intermediate exercise 2.1
 
@@ -33,6 +33,10 @@ document.write('<br>');*/
 console.log(fruits);
 
 document.write(fruits);*/
+
+
+
+
 
 // intermediate exercise 2.2
 
@@ -61,3 +65,16 @@ console.log(animals);
 
 document.write(animals);*/
 
+
+
+// intermediate exercise 3
+
+/* let exoticfruits = "mango/cherries/kiwi/grapes/pear/peach/orange/lemon";
+
+ let fruitsArray = new Array();
+
+ fruitsArray = exoticfruits.split('/');
+
+ console.log(fruitsArray);
+
+ document.write(fruitsArray.join("<br>"));*/
