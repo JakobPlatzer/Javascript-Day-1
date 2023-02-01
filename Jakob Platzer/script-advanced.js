@@ -30,3 +30,36 @@ let finalresult = result1 / result2;
 
 document.write(finalresult); */
 
+
+
+// Exercise 2
+
+// let people = ["Greg", "Mary", "Devon", "James"];
+
+// people.shift();
+
+// people.unshift("Matt");
+
+// people.pop();
+
+// people.push("Jakob");
+
+// let peoplecopy = people.slice(2,5);
+
+// console.log(people.indexOf("Mary"));
+
+// console.log(people.indexOf("Foo"));
+
+// people = ["Greg", "Mary", "Devon", "James"];
+
+// people.splice(2,1, "Elizabeth", "Anna");
+
+console.log(people);
+
+// console.log(peoplecopy);
+
+
+// Exercise 3
+
+
+
