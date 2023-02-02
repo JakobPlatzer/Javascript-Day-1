@@ -1,6 +1,6 @@
 // Exercise 1
 
-/* let a = 7;
+/*let a = 7;
 
 let b = 14;
 
@@ -46,9 +46,9 @@ document.write(finalresult); */
 
 // let peoplecopy = people.slice(2,5);
 
-// console.log(people.indexOf("Mary"));
+// //console.log(people.indexOf("Mary"));
 
-// console.log(people.indexOf("Foo"));
+// //console.log(people.indexOf("Foo"));
 
 // people = ["Greg", "Mary", "Devon", "James"];
 
@@ -56,30 +56,30 @@ document.write(finalresult); */
 
 // console.log(people);
 
-// console.log(peoplecopy);
+// //console.log(peoplecopy);
 
 
 // Exercise 3
 
-/*let multiArray = [ 
-    [1, 2, 1, 24], 
-    [8, 11, 9, 4], 
-    [7, 0, 7, 27], 
-    [7, 4, 28, 14], 
-    [3, 10, 25, 7], 
-    [21, 4, 6, 17], 
-    [3, 5, 26, 3] 
-];
+// let multiArray = [ 
+//     [1, 2, 1, 24], 
+//     [8, 11, 9, 4], 
+//     [7, 0, 7, 27], 
+//     [7, 4, 28, 14], 
+//     [3, 10, 25, 7], 
+//     [21, 4, 6, 17], 
+//     [3, 5, 26, 3] 
+// ];
 
 // get the numbers 11, 25, 17, 27, 0 and log them in the console.
 
-console.log(multiArray[1][1]);
-console.log(multiArray[4][2]);
-console.log(multiArray[5][3]);
-console.log(multiArray[2][3]);
-console.log(multiArray[2][1]);
+// console.log(multiArray[1][1]);
+// console.log(multiArray[4][2]);
+// console.log(multiArray[5][3]);
+// console.log(multiArray[2][3]);
+// console.log(multiArray[2][1]);
 
-*/
+
 
 // Challenge
 
@@ -89,3 +89,15 @@ let complicatedSentence = "Properties,$a$set$of$immutable$values,$are$passed$to$
 let simpleArray = complicatedSentence.split('$');
 
 console.log(simpleArray.join(' '));*/
+
+let temp = ();
+
+if (temp << 2) {
+    console.log("It is very cold!")
+} else if (temp << 8) {
+    console.log("It is cold")
+} else if ( temp << 19) {
+    console.log("It is ok")
+} else {
+    console.log("It is hot")
+}
